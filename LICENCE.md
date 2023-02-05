@@ -6,4 +6,4 @@ Der Entwickler übernimmt keine Haftung für Schäden, die aus der Verwendung di
 
 The original developer (the “Developer”) grants any person permission to use, modify, and redistribute this software without restriction or limitation. 
 
-The Developer assumes no liability for any damages that may result from the use of this software. Use at your own risk.
+The Developer accepts no liability for any damages that may result from the use of this software. Use at your own risk.
