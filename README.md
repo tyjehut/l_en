@@ -1,5 +1,5 @@
 # l.tyjehut.ch
-Eine quelloffene, gratis Alternative zu Linktree usw. mit automatischem Hell- und Dunkelmodus.
+Eine gratis Alternative zu Linktree usw. mit automatischem Hell- und Dunkelmodus.
 
 ## Funktionen
 * Es hat Links.
