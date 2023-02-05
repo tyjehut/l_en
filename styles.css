@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+	--theme: rgb(255, 255, 255);
+	--primary: rgb(30, 30, 30);
+	--tertiary: rgb(214, 214, 214);
+	--radius: 8px
+}
+@media(prefers-color-scheme: dark) {
+	:root {
+		--theme:rgb(29, 30, 32);
+		--primary: rgb(218, 218, 219);
+		--tertiary: rgb(65, 66, 68)
+}
+}
+*,::after,::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	color: var(--primary);
+	text-decoration: none
+}
+body {
+	font-family: Public Sans,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+	line-height: 2;
+	word-break: break-word;
+	background: var(--theme);
+	text-align: center;
+	margin: 50px 0;
+	padding: 10px
+}
+h1 {
+	padding: 0 0 50px
+}
+.button {
+	background: var(--tertiary);
+	border-radius: var(--radius);
+	padding: 8px 80px;
+	display: block;
+	width: 100%
+}
+.links li {
+	padding: 10px 0
+}
+.links {
+	list-style: none;
+	flex-direction: column;
+	display: inline-block
+}
