@@ -1,7 +1,7 @@
 # l.tyjehut.ch
-Eine gratis Alternative zu Linktree usw. mit automatischem Hell- und Dunkelmodus.
+A free alternative to Linktree etc. with automatic light and dark modes.
 
-## Funktionen
-* Es hat Links.
-* Du kannst sie anklicken.
-* Es sieht okay aus.
+## Features
+* It has links
+* You can click them.
+* It looks okay.
