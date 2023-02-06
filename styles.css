@@ -29,7 +29,10 @@ body {
 	padding: 10px
 }
 h1 {
-	padding: 0 0 50px
+	padding: 0 0 50px;
+}
+footer {
+	padding: 50px 0 0;
 }
 .button {
 	background: var(--tertiary);
@@ -38,6 +41,11 @@ h1 {
 	display: block;
 	width: 100%
 }
+.lang {
+	padding: 8px 80px;
+	font-size: 14px;
+	vertical-align: middle;
+}
 .links li {
 	padding: 10px 0
 }
@@ -45,4 +53,8 @@ h1 {
 	list-style: none;
 	flex-direction: column;
 	display: inline-block
+}
+.impressum {
+	text-decoration: underline;
+	padding: 0 0 30px;
 }
