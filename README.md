@@ -1,4 +1,4 @@
-# l.tyjehut.ch
+# l.tyjehut.com
 A free alternative to Linktree etc. with automatic light and dark modes.
 
 ## Features
