@@ -21,7 +21,7 @@
 	text-decoration: none
 }
 body {
-	font-family: "Source Sans", sans-serif;
+	font-family: "Source Sans Pro", sans-serif;
 	line-height: 2;
 	word-break: break-word;
 	background: var(--theme);
@@ -30,7 +30,7 @@ body {
 	padding: 10px
 }
 h1 {
-	font-family: "Source Serif", serif;
+	font-family: "Source Serif Pro", serif;
 	padding: 0 0 50px;
 }
 footer {
