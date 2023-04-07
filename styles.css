@@ -33,9 +33,13 @@ body {
 h1 {
 	font-family: "Source Serif Pro", serif;
 	padding: 0 0 50px;
+	weight: 400;
 }
 h4 {
 	weight: 600;
+}
+h5 {
+	weight: 400;
 }
 footer {
 	padding: 50px 0 0;
